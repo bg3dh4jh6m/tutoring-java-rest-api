@@ -1,0 +1,17 @@
+desktop.ini
+/target/
+/.mvn/
+/.idea/
+target/
+.idea/
+*.iml
+/training.png
+
+# Never publish local credentials.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
